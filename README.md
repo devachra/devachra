@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devachra
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on Start-up 
+- 💞️ I’m looking to collaborate with Start-up 
 - 📫 How to reach me - deven.tech29@gmail.com
 
 <!---
